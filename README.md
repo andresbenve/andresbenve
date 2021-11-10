@@ -24,7 +24,8 @@
     };
     
     Tech Stack
-JavaScript TypeScript React Redux MUI TailwindCSS NodeJS Express.js Postgres MongoDB Mocha Jest Git GitHub Heroku Vercel AWS HTML5 CSS3 Visual Studio Code Neovim Linux Mint Trello Linux
+* JavaScript TypeScript React Redux MUI TailwindCSS NodeJS Express.js Postgres MongoDB Mocha Jest Git GitHub Heroku Vercel AWS HTML5 CSS3 Visual Studio Code Neovim Linux Mint Trello Linux *
+
 
 📫 How to contact me? : < andres.benve@gmail.com >
 Gmail LinkedIn Slack
