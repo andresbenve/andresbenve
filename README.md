@@ -23,15 +23,16 @@
                  Vue, Mocha, Jest, Docker, Flutter],
     };
  
-     Tech Stack
+ 
+    * Tech Stack * 
+     
  <img width="686" alt="Screen Shot 2021-11-10 at 00 26 06" src="https://user-images.githubusercontent.com/56841920/141044330-e54e2e0e-150e-42a6-9256-b3aefc2fb4c2.png">
 
 
     
-* JavaScript TypeScript React Redux MUI TailwindCSS NodeJS Express.js Postgres MongoDB Mocha Jest Git GitHub Heroku Vercel AWS HTML5 CSS3 Visual Studio Code Neovim Linux Mint Trello Linux *
-
 
 📫 How to contact me? : < andres.benve@gmail.com >
-Gmail LinkedIn Slack
+<img width="301" alt="Screen Shot 2021-11-10 at 00 27 52" src="https://user-images.githubusercontent.com/56841920/141044480-0db4138b-a770-47a8-8b69-44d470eba52d.png">
+
 
 💻 Check Out My Repos ⬇️
